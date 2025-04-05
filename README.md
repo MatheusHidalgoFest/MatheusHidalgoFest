@@ -13,7 +13,7 @@
 
 - 📄 Sobre mim: [https://www.linkedin.com/in/matheus-hidalgo-do-nascimento-fest-ferreira-921582197?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNazDd6p1SyOknHiEYyQWbg%3D%3D](https://www.linkedin.com/in/matheus-hidalgo-do-nascimento-fest-ferreira-921582197?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNazDd6p1SyOknHiEYyQWbg%3D%3D)
 
-<h3 align="left">Conecte-se comigos:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matheus-hidalgo-do-nascimento-fest-ferreira-921582197?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bnazdd6p1syoknhieyyqwbg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-hidalgo-do-nascimento-fest-ferreira-921582197?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bnazdd6p1syoknhieyyqwbg%3d%3d" height="30" width="40" /></a>
 </p>
