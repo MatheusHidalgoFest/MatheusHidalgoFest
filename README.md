@@ -44,9 +44,6 @@
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
   </a>
-  <a href="https://docs.oracle.com/en/database/oracle/oracle-database/21/adfns/plsql-overview.html" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-database-data-analytics-flatart-icons-outline-flatarticons.png" alt="plsql" width="40" height="40"/>
-  </a>
 </p>
 
 
